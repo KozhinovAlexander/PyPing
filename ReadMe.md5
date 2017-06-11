@@ -5,4 +5,4 @@ To strat it type in console (assumed you use Linux/Unix system with preinstalled
 	
 	or in case of python3 version
 
-	pthon3 PyPing.py <start ipv4> <end ipv4>
+	python3 PyPing.py <start ipv4> <end ipv4>
