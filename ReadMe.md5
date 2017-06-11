@@ -1,1 +1,8 @@
+This is simple python console local network ping interface.
 
+To strat it type in console (assumed you use Linux/Unix system with preinstalled python):
+	python PyPing.py <start ipv4> <end ipv4>
+	
+	or in case of python3 version
+
+	pthon3 PyPing.py <start ipv4> <end ipv4>
